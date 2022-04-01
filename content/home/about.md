@@ -1,21 +1,13 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
 active: true
-
-# This file represents a page section.
-headless: true
-
-# Order that this section appears on the page.
-weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
+widget_id: biography
+headless: true
+weight: 20
+title: Ava Mackay-Smith
+design:
+  background:
+    image: img_20210731_130910-1-.jpg
 ---
+Ava Mackay-Smith is a research associate and current lab manager in the Reilly lab at Yale Genetics. She is currently involved in projects spanning human-specific evolution, *de novo* identification of noncoding regulatory elements, and functional characterization of human positively selected noncoding variants. Her previous research has included population genetics of insects, longitudinal fieldwork of nesting patterns in Swedish birds, and hybrid plant collection in the Pyrenees.
