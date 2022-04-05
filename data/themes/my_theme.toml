@@ -1,23 +1,19 @@
 # Theme metadata
-name = "Minimal"
+name = "custom"
 
 [light]
   # Primary
-  primary = "#1565c0"
+  primary = "rgb(250, 232, 218)"
+  
+  link = "rgb(216, 174, 121)"
+  link_hover = "#rgb(168, 102, 36)"
 
   # Menu
-  menu_primary = "#fff"
-  menu_text = "#34495e"
-  menu_text_active = "#2962ff"
-  menu_title = "#2b2b2b"
+  menu_primary = "rgb(80, 76, 78)"
+  menu_text = "rgb(20, 20, 20)"
+  menu_text_active = "rgb(20, 20, 20)"
+  menu_title = "rgb(20, 20, 20)"
 
   # Home sections
-  home_section_odd = "rgb(255, 255, 255)"
-  home_section_even = "rgb(247, 247, 247)"
-
-[dark]
-  # Primary
-  primary = "#bbdefb"
-
-  link = "#bbdefb"
-  link_hover = "#bbdefb"
+  home_section_odd = "rgb(221,169, 153)"
+  home_section_even = "rgb(250, 232, 218)"
