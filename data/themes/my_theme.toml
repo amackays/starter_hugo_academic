@@ -6,7 +6,7 @@ name = "custom"
   primary = "rgb(250, 232, 218)"
   
   link = "rgb(216, 174, 121)"
-  link_hover = "#rgb(168, 102, 36)"
+  link_hover = "rgb(168, 102, 36)"
 
   # Menu
   menu_primary = "rgb(80, 76, 78)"
@@ -23,4 +23,4 @@ name = "custom"
   primary ="rgb(250, 232, 218)"
 
   link = "rgb(216, 174, 121)"
-  link_hover = "#rgb(168, 102, 36)"
+  link_hover = "rgb(168, 102, 36)"
