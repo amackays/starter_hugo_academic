@@ -1,0 +1,19 @@
+# Theme metadata
+name = "my_theme_2"
+
+[light]
+  # Primary
+  primary = "rgb(250, 232, 218)"
+  
+  link = "rgb(216, 174, 121)"
+  link_hover = "rgb(168, 102, 36)"
+
+  # Menu
+  menu_primary = "rgb(195,218,207)"
+  menu_text = "rgb(43,78,78)"
+  menu_text_active = "rgb(43,78,78)"
+  menu_title = "rgb(20, 20, 20)"
+
+  # Home sections
+  home_section_odd = "rgb(248,246,245)"
+  home_section_even = "rgb(244,238,236)"
