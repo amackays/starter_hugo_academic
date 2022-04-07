@@ -7,8 +7,7 @@ google_fonts = "family=Karla:wght@200&family=Spectral:wght@200"
 # Font families
 heading_font = "Spectral"
 body_font = "Karla"
-nav_title = "Spectral"
-nav_font = "Karla"
+nav_font = "Spectral"
 mono_font = "Karla"
 
 
