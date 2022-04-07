@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ava Mackay-Smith
+#title: Ava Mackay-Smith
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,30 +10,27 @@ role: Lab Manager
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Reilly Lab, Yale University Genetics
+- name: Reilly Lab @ Yale
   url: https://www.reilly-lab.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
 - Evolutionary Genomics
-- Computational Linguistics
-- Information Retrieval
+- Gene Regulation
+- Accessibility & Equity in STEM
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Incoming PhD Student in Genetics and Genomics (UPGG)
+    institution: Duke University
+    year: 2022
+  - course: B.A. in Biological Sciences & Environmental Studies
+    institution: Wellesley College
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
