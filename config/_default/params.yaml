@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: my_theme_2
-  font: minimal
+  font: font_set_1
   font_size: L
 
 # SEO
