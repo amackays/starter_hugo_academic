@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Incoming PhD Student in Genetics and Genomics (UPGG)
+  - course: Incoming Ph.D. Student in Genetics and Genomics (UPGG)
     institution: Duke University
     year: 2022
   - course: B.A. in Biological Sciences & Environmental Studies
@@ -64,8 +64,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Ava is the lab manager for the Reilly lab. Her work focuses on the functional characterization of positively selected human variants, more specifically those within genetic regulatory elements and linked to disease traits. Prior to her position in the lab, Ava completed her undergraduate studies at Wellesley College, where she wrote an honors thesis in Dr. Andrea Sequeira’s lab on the transcriptomic responses and adaptations of an invasive insect on various novel host plants. Her research interests seek to incorporate evolutionary concepts with cutting-edge functional genomics methods to understand organismal adaptation and variation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In the fall of 2022, Ava will begin a Ph.D. in Duke's University Program in Genetics and Genomics (UPGG), funded by a James B. Duke Fellowship and the National Science Foundation's Graduate Research Fellowship. Outside of the lab, she enjoys ventures in horticulture, standup comedy, and hiking with her dog Bunsen.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
