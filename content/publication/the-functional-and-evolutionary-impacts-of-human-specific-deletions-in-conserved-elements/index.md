@@ -5,7 +5,7 @@ publication_types:
   - "3"
 authors:
   - Xue JR
-  - @admin
+  - admin
   - Mouri K
   - Zoonomia Consortium
   - Tewhey R
