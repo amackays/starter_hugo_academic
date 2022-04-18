@@ -1,6 +1,6 @@
 ---
 # Display name
-#title: Ava Mackay-Smith
+title: Ava Mackay-Smith
 
 # Is this the primary user of the site?
 superuser: true
