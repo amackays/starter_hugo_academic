@@ -7,7 +7,7 @@ authors:
   - Reilly SK
   - Gosai SJ
   - Gutierrez A
-  - Mackay-Smith A
+  - admin
   - Ulirsch JC
   - Kanai M
   - Mouri K
