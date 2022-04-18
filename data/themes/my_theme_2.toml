@@ -3,7 +3,7 @@ name = "my_theme_2"
 
 [light]
   # Primary
-  primary = "rgb(250, 232, 218)"
+  primary = "rgb(221,169,155)"
   
   link = "rgb(216, 174, 121)"
   link_hover = "rgb(168, 102, 36)"
