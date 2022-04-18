@@ -1,5 +1,3 @@
-<!---->name of page is the name of the folder that contains index.md (this text document)
-
 ---
 title: Useful Resources
 summary: Professional development and application materials
