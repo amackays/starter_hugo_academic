@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: ""
+url_pdf: "/journal.pone.0248202.pdf"
 publication_types:
   - "2"
 authors:
