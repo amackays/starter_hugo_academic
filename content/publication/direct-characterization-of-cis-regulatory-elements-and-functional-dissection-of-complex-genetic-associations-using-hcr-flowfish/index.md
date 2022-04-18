@@ -1,6 +1,6 @@
 ---
-title: Direct characterization of cis-regulatory elements and functional
-  dissection of complex genetic associations using HCR-FlowFISH. 
+title:  {{% staticref "uploads/flowfish_natgen.pdf" %}}Direct characterization of cis-regulatory elements and functional
+  dissection of complex genetic associations using HCR-FlowFISH.{{% /staticref %}}
 url_pdf: "/flowfish_natgen.pdf"
 publication_types:
   - "2"
