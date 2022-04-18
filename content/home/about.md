@@ -1,11 +1,11 @@
 ---
 widget: about
-active: false
+active: true
 author: admin
 widget_id: biography
 headless: true
 weight: 20
-title: Ava Mackay-Smith
+title:
 design:
   background:
     image: ""
