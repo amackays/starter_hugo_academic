@@ -5,7 +5,7 @@ url_pdf: ""
 publication_types:
   - "2"
 authors:
-  - Mackay-Smith A
+  - admin
   - Dornon MK
   - Lucier R
   - Okimoto A
