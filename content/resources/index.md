@@ -15,7 +15,7 @@ If you do land a tech job, and you feel like you're struggling - I can guarantee
 C.V.
 -------
 
-I built my CV in LaTeX using the resume.cls class from Trey Hunner on [GitHub](https://github.com/treyhunner/resume/blob/master/resume.cls). I used this same format while applying to tech jobs.
+I built my CV in LaTeX using the resume.cls class from Trey Hunner on [GitHub](https://github.com/treyhunner/resume/blob/master/resume.cls). I used this same format while applying to teching jobs in academia after graduating from college.
 
 {{% staticref "uploads/AMS_resume.pdf" %}}Ava's CV{{% /staticref %}}
 
@@ -34,3 +34,12 @@ NSF GRFP Application
 Below are my research and personal statements for the NSF GRFP. I won this fellowship as I was applying to grad school, sending in an application in Fall 2021. I just want to acknowledge that this particular fellowship is known to be a bit of a lottery, so please keep that in mind when reading these and also when applying yourself! Even if you aren't awarded the fellowship the first time around, you receive feedback on your submission, which is really useful for resubmission (and something I didn't know when I applied).
 
 {{% staticref "uploads/ams_grfp_final_v8.pdf" %}}NSF GRFP Research{{% /staticref %}} | {{% staticref "uploads/v2_personal_ams_grfp.pdf" %}}NSF GRFP Personal{{% /staticref %}}
+
+Reality Check (Things I didn't get)
+---------
+
+In science, I sometimes feel like we spend a lot of time competing about achievements and the things that make us look smart! That's great, especially when we celebrate each other for our achievements and the barriers we've overcome to get there, but it can also be isolating - when we focus only on the experiments that worked or the fellowships that were won, etc., it hides exactly how many failures (and how learning from those failures) built that amazing person who's doing that science. Consequently, when you experience that failure yourself but nobody is discussing their own similar experiences, it can sometimes end up feeling like you are the only one who's struggling or experiencing failure when trying to move through some parts of academia/science. So here are some things that didn't work for me!
+
+  - I applied for the Fulbright fellowship to do a science project in Sweden during my undergrad, in 2019. It was the first fellowship I applied to, and I tanked it HARD. I had no experience writing fellowship applications and didn't get it.
+  - I graduated into the pandemic, in May 2020 - because of this, NOBODY was hiring. Although it looks awesome that I teched at the Broad, and I loved my time there, it was also probably the second place out of 40+ applications that even gave me an interview. That's 38+ "No"s.
+  - I didn't get into my first choice school for undergrad! I'm so thankful for the lifelong mentors and researche experience I gained from Wellesley, but it was also one of the only places that actually accepted me.
