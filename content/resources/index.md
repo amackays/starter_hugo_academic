@@ -43,3 +43,5 @@ In science, I sometimes feel like we spend a lot of time competing about achieve
   - I applied for the Fulbright fellowship to do a science project in Sweden during my undergrad, in 2019. It was the first fellowship I applied to, and I tanked it HARD. I had no experience writing fellowship applications and didn't get it.
   - I graduated into the pandemic, in May 2020 - because of this, NOBODY was hiring. Although it looks awesome that I teched at the Broad, and I loved my time there, it was also probably the second place out of 40+ applications that even gave me an interview. That's 38+ "No"s.
   - I didn't get into my first choice school for undergrad! I'm so thankful for the lifelong mentors and researche experience I gained from Wellesley, but it was also one of the only places that actually accepted me.
+
+I deal with mistakes and failures in a way that one mentor put like this: imperfect, impersonal, impermanent. the process, AND you, are imperfect (human error); sometimes the decisions, or what went wrong, is impersonal - isn't about you; and whatever the mistake or failure, it will pass - it is impermanent.
