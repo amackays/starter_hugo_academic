@@ -18,6 +18,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ava-mackay-smith/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: orcid
+    link: https://orcid.org/0000-0003-0404-0563
 organizations:
   - name: Reilly Lab @ Yale
     url: https://www.reilly-lab.com/
