@@ -24,8 +24,8 @@ social:
     icon: orcid
     link: https://orcid.org/0000-0003-0404-0563
 organizations:
-  - name: Reilly Lab @ Yale
-    url: https://www.reilly-lab.com/
+  - name: Duke University Program in Genetics and Genomics
+    url: https://upg.duke.edu/
 education:
   courses:
     - course: Incoming Ph.D. Student in Genetics and Genomics (UPGG)
