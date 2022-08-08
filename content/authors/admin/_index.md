@@ -1,6 +1,6 @@
 ---
 title: Ava Mackay-Smith
-role: Lab Manager
+role: Graduate Student
 interests:
   - Evolutionary Genomics
   - Gene Regulation
