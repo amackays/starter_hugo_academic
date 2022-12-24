@@ -12,7 +12,7 @@ authors:
   - Zagoren E
   - Palmer A
   - Sequeira AS
-publication: Under review (Biological Invasions)
+publication: In press (Insects)
 draft: false
 featured: false
 image:
