@@ -15,7 +15,7 @@ authors:
   - Lanteri AA
   - Sequeira AS
 author_notes: []
-publication: "PLoS ONE 16(7): e0248202 (2021)"
+publication: "PLoS ONE 16(7): e0248202"
 summary: ""
 url_dataset: ""
 url_project: ""
@@ -32,7 +32,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2022-04-08T01:38:10.300Z
+date: 2021-07-30
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
