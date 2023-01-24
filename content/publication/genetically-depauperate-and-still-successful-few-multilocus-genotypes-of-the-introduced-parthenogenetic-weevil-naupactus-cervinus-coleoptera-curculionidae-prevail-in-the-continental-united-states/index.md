@@ -3,7 +3,7 @@ title: "Genetically depauperate and still successful: few multilocus genotypes
   of the introduced parthenogenetic weevil Naupactus cervinus (Coleoptera:
   Curculionidae) prevail in the Continental United States"
 publication_types:
-  - "3"
+  - "2"
 authors:
   - Rodriguero MS
   - Confalonieri VA
@@ -12,7 +12,8 @@ authors:
   - Zagoren E
   - Palmer A
   - Sequeira AS
-publication: In press (Insects)
+doi: https://doi.org/10.3390/insects14020113
+publication: Insects 14, 113 (2023)
 draft: false
 featured: false
 image:
