@@ -29,5 +29,4 @@ image:
   filename: ""
   focal_point: ""
   preview_only: false
-date: 2022-04-08T01:40:26.994Z
 ---
