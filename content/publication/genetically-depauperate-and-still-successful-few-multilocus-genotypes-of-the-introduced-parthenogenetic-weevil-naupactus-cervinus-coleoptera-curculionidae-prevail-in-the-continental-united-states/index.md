@@ -14,12 +14,12 @@ authors:
   - Palmer A
   - Sequeira AS
 doi: https://doi.org/10.3390/insects14020113
-publication: Insects 14, 113 (2023)
+publication: Insects 14, 113
 draft: false
 featured: false
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-06-07T13:12:24.046Z
+date: 2023-01-22
 ---
