@@ -1,7 +1,7 @@
 ---
 abstract: ""
 slides: ""
-url_pdf: "/journal.pone.0248202.pdf"
+url_pdf: /journal.pone.0248202.pdf
 publication_types:
   - "2"
 authors:
@@ -24,7 +24,7 @@ url_source: ""
 url_video: ""
 title: Host-specific gene expression as a tool for introduction success in
   Naupactus parthenogenetic weevils
-doi: https://doi.org/10.1371/journal.pone.0248202
+doi: 10.1371/journal.pone.0248202
 featured: false
 tags: []
 projects: []
