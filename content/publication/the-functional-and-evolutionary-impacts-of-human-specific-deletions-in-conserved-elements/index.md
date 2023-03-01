@@ -11,7 +11,7 @@ authors:
   - Tewhey R
   - Sabeti PC
   - Reilly SK
-publication: Under review (Science)
+publication: Accepted (Science)
 draft: false
 featured: false
 image:
