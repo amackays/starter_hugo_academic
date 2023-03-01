@@ -35,7 +35,7 @@ authors:
   - Engreitz JE
   - Bassik MC
   - Reilly SK
-doi: https://doi.org/10.1101/2022.12.21.520137
+doi: 10.1101/2022.12.21.520137
 publication: bioRxiv
 abstract: The ENCODE Consortium’s efforts to annotate non-coding, cis-regulatory
   elements (CREs) have advanced our understanding of gene regulatory landscapes
