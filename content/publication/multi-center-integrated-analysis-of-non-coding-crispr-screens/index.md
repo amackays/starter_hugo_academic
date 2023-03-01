@@ -8,7 +8,7 @@ authors:
   - Oh JW*
   - Bounds LR*
   - Gosai SJ*
-  - Lataniotis L
+  - Lataniotis L*
   - Mackay-Smith A
   - Doughty BR
   - Gabdank I
