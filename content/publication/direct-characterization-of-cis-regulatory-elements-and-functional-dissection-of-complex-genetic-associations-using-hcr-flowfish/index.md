@@ -1,7 +1,8 @@
 ---
+draft: false
+url_pdf: /flowfish_natgen.pdf
 title: Direct characterization of cis-regulatory elements and functional
   dissection of complex genetic associations using HCR-FlowFISH
-url_pdf: "/flowfish_natgen.pdf"
 publication_types:
   - "2"
 authors:
@@ -21,9 +22,8 @@ authors:
   - Finucane HK
   - Sabeti PC
   - Tewhey R
-doi: https://doi.org/10.1038/s41588-021-00900-4
+doi: 10.1038/s41588-021-00900-4
 publication: Nature Genetics 53, 1166-1176
-draft: false
 featured: false
 image:
   filename: ""
