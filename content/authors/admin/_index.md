@@ -2,8 +2,9 @@
 title: Ava Mackay-Smith
 role: Graduate Student
 interests:
-  - Evolutionary Genomics
-  - Gene Regulation
+  - Genomics of Ecological Adaptation
+  - Epigenetic Evolution and Variation
+  - Evolution of Regulatory Innovation
   - Accessibility & Equity in STEM
 social:
   - icon: envelope
