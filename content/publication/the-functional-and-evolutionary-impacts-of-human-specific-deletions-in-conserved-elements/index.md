@@ -22,7 +22,7 @@ authors:
   - Sabeti PC
   - Reilly SK
 doi: 10.1126/science.abn2253
-publication: Science 380, 2023
+publication: Science 380, 6643
 abstract: Conserved genomic sequences disrupted in humans may underlie uniquely
   human phenotypic traits. We identified and characterized 10,032 human-specific
   conserved deletions (hCONDELs). These short (average 2.56 base pairs)
