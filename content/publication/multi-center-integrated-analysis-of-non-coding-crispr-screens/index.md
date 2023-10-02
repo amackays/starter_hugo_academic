@@ -1,6 +1,5 @@
 ---
 title: Multi-center integrated analysis of non-coding CRISPR screens
-url_pdf: "content/publication/multi-center-integrated-analysis-of-non-coding-crispr-screens/2022.12.21.520137v1.full.pdf"
 publication_types:
   - "3"
 authors:
