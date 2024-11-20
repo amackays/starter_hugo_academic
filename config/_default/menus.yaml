@@ -7,10 +7,14 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Publications
+  - name: Publishing
     identifier: publications
     url: '/publication'
     weight: 20
+  - name: Visualizing
+    identifier: slides
+    url: '/slides'
+    weight: 25
   - name: Resources
     url: '/resources'
     weight: 30
