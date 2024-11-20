@@ -23,19 +23,6 @@ authors:
   - Reilly SK
 doi: 10.1126/science.abn2253
 publication: Science 380, 6643
-abstract: Conserved genomic sequences disrupted in humans may underlie uniquely
-  human phenotypic traits. We identified and characterized 10,032 human-specific
-  conserved deletions (hCONDELs). These short (average 2.56 base pairs)
-  deletions are enriched for human brain functions across genetic, epigenomic,
-  and transcriptomic datasets. Using massively parallel reporter assays in six
-  cell types, we discovered 800 hCONDELs conferring significant differences in
-  regulatory activity, half of which enhance rather than disrupt regulatory
-  function. We highlight several hCONDELs with putative human-specific effects
-  on brain development, including HDAC5, CPEB4, and PPP2CA. Reverting an hCONDEL
-  to the ancestral sequence alters the expression of LOXL2 and developmental
-  genes involved in myelination and synaptic function. Our data provide a rich
-  resource to investigate the evolutionary mechanisms driving new traits in
-  humans and other species.
 draft: false
 featured: false
 image:
@@ -43,4 +30,8 @@ image:
   focal_point: ""
   preview_only: false
 date: 2023-01-24
+summary: Conserved genomic sequences disrupted in humans may underlie uniquely human phenotypic traits. We identified and characterized 10,032 human-specific conserved deletions (hCONDELs). These short (average 2.56 base pairs) deletions are enriched for human brain functions across genetic, epigenomic, and transcriptomic datasets. Using massively parallel reporter assays in six cell types, we discovered 800 hCONDELs conferring significant differences in regulatory activity, half of which enhance rather than disrupt regulatory function. We highlight several hCONDELs with putative human-specific effects on brain development, including HDAC5, CPEB4, and PPP2CA. Reverting an hCONDEL to the ancestral sequence alters the expression of LOXL2 and developmental genes involved in myelination and synaptic function. Our data provide a rich resource to investigate the evolutionary mechanisms driving new traits in humans and other species.
+external_link: https://www.science.org/doi/10.1126/science.abn2253
+tags:
+  - consortia
 ---
