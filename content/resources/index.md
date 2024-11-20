@@ -5,13 +5,6 @@ summary: Professional development and application materials
 
 Throughout my academic career so far, I've benefited from having access to others' successful writing examples and from their knowledge of the academic systems I'm engaging with. In the same vein, below are a few of the materials I've used to apply for lab technician positions, Ph.D programs, and fellowships. Please return the favor of my volunteering these resources by respecting my intellectual property and practicing academic integrity, and please *please* feel free to reach out with any questions!
 
-C.V.
--------
-
-I built my CV in LaTeX using the resume.cls class from Trey Hunner on [GitHub](https://github.com/treyhunner/resume/blob/master/resume.cls). I used this same format while applying to teching jobs in academia after graduating from college.
-
-{{% staticref "uploads/AMS_resume.pdf" %}}Ava's CV{{% /staticref %}}
-
 Ph.D Program Applications
 ---------
 
@@ -28,6 +21,23 @@ Below are my research and personal statements for the NSF GRFP. I won this fello
 
 {{% staticref "uploads/ams_grfp_final_v8.pdf" %}}NSF GRFP Research{{% /staticref %}} | {{% staticref "uploads/v2_personal_ams_grfp.pdf" %}}NSF GRFP Personal{{% /staticref %}}
 
+Small Grants
+---------
+
+To make things easier on my end, I'm not going to post the variety of small grants I've applied for, but if you're interested in Sigma Xi, small internal Grants-in-Aid, or Conference Travel Grants and you'd like to see my writing, drop me a line!
+
+C.V.
+-------
+
+I built my CV in LaTeX using the resume.cls class from Trey Hunner on [GitHub](https://github.com/treyhunner/resume/blob/master/resume.cls). I used this same format while applying to teching jobs in academia after graduating from college.
+
+{{% staticref "uploads/AMS_resume.pdf" %}}Ava's CV{{% /staticref %}}
+
+Building a Website
+---------
+
+If you're interested in starting a website that looks like this, I really recommend hosting your site with GitHub and using Wowchemy/Netlify for a quick and streamlined website template! There are great resources on the Hugo documentation for Wowchemy sites, and GitHub website deployment is pretty easy with their walkthrough guides. Here's a quick Google Doc [one-pager] (https://docs.google.com/document/d/1qnbicaoXNIqAaeJdN65O3EA5zqF6XBnevFuiJ8wEOqg/edit?usp=sharing) on the recipe I used to make this site! Reach out if you have any questions!
+
 Teching
 --------
 
@@ -42,6 +52,7 @@ Reality Check (Things I didn't get or win)
 
 In science, I sometimes feel like we spend a lot of time competing about achievements and the things that make us look smart! That's great, especially when we celebrate each other for our achievements and the barriers we've overcome to get there, but it can also be isolating - when we focus only on the experiments that worked or the fellowships that were won, etc., it hides exactly how many failures (and how learning from those failures) built that amazing person who's doing that science. Consequently, when you experience that failure yourself but nobody is discussing their own similar experiences, it can sometimes end up feeling like you are the only one who's struggling or experiencing failure when trying to move through some parts of academia/science. So here are some things that didn't work for me!
 
+  - In graduate school, I was a Sigma Xi member and kept applying for their grants-in-aid. Ask me about the second time my proposal was rejected, with the only reviewer feedback provided as 'nice grant.'!
   - I applied for the Fulbright fellowship to do a science project in Sweden during my undergrad, in 2019. It was the first fellowship I applied to, and I tanked it HARD. I had no experience writing fellowship applications and didn't get it.
   - I graduated into the pandemic, in May 2020 - because of this, NOBODY was hiring. Although it looks awesome that I teched at the Broad, and I loved my time there, it was also probably the second place out of 40+ applications that even gave me an interview. That's 38+ "No"s.
   - I didn't get into my first choice school for undergrad, and if it wasn't for the science at Wellesley, I would have had a really bad time! I'm so thankful for the lifelong mentors and research experience I gained from Wellesley, but it was also one of the only places that actually accepted me.
