@@ -28,9 +28,9 @@ doi: 10.1038/s41588-021-00900-4
 publication: Nature Genetics 53, 1166-1176
 featured: false
 image:
-  filename: ""
+  filename: "flowfish.jpg"
   focal_point: ""
-  preview_only: false
+  preview_only: true
 date: 2021-07-29
 external_link: https://www.nature.com/articles/s41588-021-00900-4
 ---
