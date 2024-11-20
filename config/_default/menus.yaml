@@ -11,10 +11,10 @@ main:
     identifier: publications
     url: '/publication'
     weight: 20
-  - name: Visualizing
-    identifier: slides
-    url: '/slides'
-    weight: 25
+  #- name: Visualizing
+  #  identifier: slides
+  #  url: '/slides'
+  #  weight: 25
   - name: Resources
     url: '/resources'
     weight: 30
