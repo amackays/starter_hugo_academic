@@ -4,7 +4,7 @@ type: landing
 
 sections:
   - block: portfolio
-    id: projects
+    id: publications
     content:
       title: Publications
       subtitle: ''
