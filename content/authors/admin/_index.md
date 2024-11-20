@@ -14,7 +14,7 @@ social:
     icon_pack: fab
     link: https://twitter.com/a_mack_s
   - icon: bluesky
-    icon_pack: fa
+    icon_pack: fab
     link: https://bsky.app/profile/a-mack-s.bsky.social
   - icon: graduation-cap
     icon_pack: fas
