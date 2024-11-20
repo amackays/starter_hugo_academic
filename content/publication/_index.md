@@ -6,17 +6,8 @@ sections:
     id: publications
     content:
       title: Publications
-      subtitle: ''
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
-      filters:
-        # Folders to display content from
-        folders:
-          - publication
-        # Only show content with these tags
-        tags: []
-        # Exclude content with these tags
-        exclude_tags: []
-        # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
+      #subtitle: ''
+      #text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       # Field to sort by, such as Date or Title
       sort_by: 'Date'
       sort_ascending: false
