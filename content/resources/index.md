@@ -19,6 +19,8 @@ NSF GRFP Application
 
 Below are my research and personal statements for the NSF GRFP. I won this fellowship as I was applying to grad school, sending in an application in Fall 2021. I just want to acknowledge that this particular fellowship is known to be a bit of a lottery, so please keep that in mind when reading these and also when applying yourself! Even if you aren't awarded the fellowship the first time around, you receive feedback on your submission, which is really useful for resubmission (and something I didn't know when I applied).
 
+There are some really useful resources from other graduate students on the internet! I highly recommend [Alex Lang's website](https://www.alexhunterlang.com/nsf-fellowship) - check out the database of many other students who have shared their (both successful and unsuccessful) proposals.
+
 {{% staticref "uploads/ams_grfp_final_v8.pdf" %}}NSF GRFP Research{{% /staticref %}} | {{% staticref "uploads/v2_personal_ams_grfp.pdf" %}}NSF GRFP Personal{{% /staticref %}}
 
 Small Grants
