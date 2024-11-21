@@ -38,7 +38,7 @@ I built my CV in LaTeX using the resume.cls class from Trey Hunner on [GitHub](h
 Building a Website
 ---------
 
-If you're interested in starting a website that looks like this, I really recommend hosting your site with GitHub and using Wowchemy/Netlify for a quick and streamlined website template! There are great resources on the Hugo documentation for Wowchemy sites, and GitHub website deployment is pretty easy with their walkthrough guides. Here's a quick Google Doc [one-pager] (https://docs.google.com/document/d/1qnbicaoXNIqAaeJdN65O3EA5zqF6XBnevFuiJ8wEOqg/edit?usp=sharing) on the recipe I used to make this site! Reach out if you have any questions!
+If you're interested in starting a website that looks like this, I really recommend hosting your site with GitHub and using Wowchemy/Netlify for a quick and streamlined website template! There are great resources on the Hugo documentation for Wowchemy sites, and GitHub website deployment is pretty easy with their walkthrough guides. Here's a quick Google Doc [one-pager](https://docs.google.com/document/d/1qnbicaoXNIqAaeJdN65O3EA5zqF6XBnevFuiJ8wEOqg/edit?usp=sharing) on the recipe I used to make this site! Reach out if you have any questions!
 
 Teching
 --------
